@@ -73,10 +73,13 @@ The design system was developed by standardizing typography, colors, spacing, an
 <h3>Icons</h3>
 Custom icons were designed from scratch to align with the style of the new components, adding to the overall coherence of the system. These icons were licensed under CC BY 4.0, meaning they can be freely used in personal or commercial projects with visible credit: “Icons by Devanshi.”
 
-<br>
-<br>
-<br>
+<h4> Pull Request </h4>
+<ul>
+<li> <a href = "https://github.com/fossology/FOSSologyUI/pull/316"> Icons set 1 </a> </li>
+<li> <a href = "https://github.com/fossology/FOSSologyUI/pull/329"> Icons set 2 </a> </li>
+</ul> 
 
+<br>
 
 <h1 align = "left" id = "deliverables">Deliverables</h1>
 
@@ -139,6 +142,12 @@ Custom icons were designed from scratch to align with the style of the new compo
 <br>
 
 <h1 align = "left" id = "acknowledgements">Acknowledgements</h1>
+
+I would like to sincerely thank my mentors [Katharina Ettinger](https://www.linkedin.com/in/katharina-ettinger-82055019/), [Shaheem Azmal M MD.](https://www.linkedin.com/in/shaheem-azmal-m-md-71604429/), [Gaurav Mishra](https://www.linkedin.com/in/gmishx/), and [Kaushlendra Pratap](https://www.linkedin.com/in/kaushl2208/) for their constant support, guidance, feedback, and encouragement throughout this project. They were always patient in clarifying my doubts, guiding me through complex features and dependencies, and going the extra mile to ensure I fully understood the intricacies of the system.
+
+I am also really grateful to the FOSSology community and the Google Summer of Code program for providing this incredible opportunity to contribute and grow. The collaborative spirit, constructive feedback, and encouragement from everyone involved made this journey not only a valuable learning experience but also a truly enjoyable one.
+
+I look forward to continuing as an active part of the FOSSology community and contributing further to the broader open-source ecosystem. This experience has inspired me to keep learning, sharing, and building together.
 
 <br>
 
