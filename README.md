@@ -1,8 +1,8 @@
-# GSoC-2025
+<h2> GSoC-2025 </h2>
 
 <a href = "https://summerofcode.withgoogle.com/programs/2025/projects/gX6omKmk">  ![Summer-of-code](files/GSoC_header.png)</a>
 
-<div align = "center"><h2><a href = "https://www.fossology.org/">FOSSology </a> <i> UX and UI Redesign </i></h2></div>
+<div align = "center"><h1><a href = "https://www.fossology.org/">FOSSology </a> <i> UX and UI Redesign </i></h1></div>
 
 <p align="center">
 	<a href="#project-details">Project Details</a> | 
@@ -69,3 +69,63 @@ The design system was developed by standardizing typography, colors, spacing, an
 
 <h3>Icons</h3>
 Custom icons were designed from scratch to align with the style of the new components, adding to the overall coherence of the system. These icons were licensed under CC BY 4.0, meaning they can be freely used in personal or commercial projects with visible credit: “Icons by Devanshi.”
+
+<h1 align = "left" id = "deliverables">Deliverables</h1>
+
+<br>
+<h3>Establishment of a cohesive design system</h3>
+
+| Tasks   | Planned | Status     | Link/Comment    |
+| :---       |    :----:   |    :---:      |    :---      |
+| Standardize elements such as colors, typography, and spacing for a unified aesthetic.     | Yes       | Completed | <a href = "https://www.figma.com/design/1tBj1VZsqQo9JewRYMm8tX/Fossology-Redesign?node-id=1333-28338&t=bOhce5XVHOjbSZh6-0">Design System on Figma </a>  |
+| Go through already designed pages and redesign (If necessary).     | Yes       | Completed | Reviewed existing pages, noted observations, and identified what to retain and what to redesign. |
+
+<br>
+<h3>List of pages that needs a Focus</h3>
+
+| Pages   | Planned | Status     | Link/Comment    |
+| :---       |    :----:   |    :---:      |    :---      |
+| Search     | Yes       | Completed | <a href = "https://www.figma.com/design/1tBj1VZsqQo9JewRYMm8tX/Fossology-Redesign?node-id=1333-26265">Search pages on Figma </a>  |
+| Conf     | Yes       | Completed |  <a href = "https://www.figma.com/design/1tBj1VZsqQo9JewRYMm8tX/Fossology-Redesign?node-id=1333-26270&t=bOhce5XVHOjbSZh6-0">Conf pages on Figma </a>  |
+| Show Jobs     | Yes       | Completed | <a href = "https://www.figma.com/design/1tBj1VZsqQo9JewRYMm8tX/Fossology-Redesign?node-id=1333-26268&t=bOhce5XVHOjbSZh6-0">Show Jobs pages on Figma </a>  |
+| Export List     | Yes       | Completed |<a href = "https://www.figma.com/design/1tBj1VZsqQo9JewRYMm8tX/Fossology-Redesign?node-id=1333-26271&t=bOhce5XVHOjbSZh6-0">Export List pages on Figma </a>  |
+| Copyright/email/url/ECC/IPRA     | Yes       | Completed |<a href = "https://www.figma.com/design/1tBj1VZsqQo9JewRYMm8tX/Fossology-Redesign?node-id=1333-27581&t=bOhce5XVHOjbSZh6-0"> Copyright/ECC/IPRA pages on Figma </a>  |
+| Folder Create/edit/delete     | Yes       | Completed |<a href = "https://www.figma.com/design/1tBj1VZsqQo9JewRYMm8tX/Fossology-Redesign?node-id=1333-27582&t=bOhce5XVHOjbSZh6-0">Folders pages on Figma </a>  |
+| Group Create/Edit/Manage     | Yes       | Completed |<a href = "https://www.figma.com/design/1tBj1VZsqQo9JewRYMm8tX/Fossology-Redesign?node-id=1333-27583&t=bOhce5XVHOjbSZh6-0">Group pages on Figma </a>  |
+| Obligations (Create/Edit/Manage)     | Yes       | Completed |<a href = "https://www.figma.com/design/1tBj1VZsqQo9JewRYMm8tX/Fossology-Redesign?node-id=1333-27584&t=bOhce5XVHOjbSZh6-0">Obligations pages on Figma </a>  |
+| License (Create/Edit/Manage)     | Yes       | Completed | <a href = "https://www.figma.com/design/1tBj1VZsqQo9JewRYMm8tX/Fossology-Redesign?node-id=1333-27586&t=bOhce5XVHOjbSZh6-0">License pages on Figma </a>  |
+| Schedule an Analysis page     | Extra       | Completed | <a href = "https://www.figma.com/design/1tBj1VZsqQo9JewRYMm8tX/Fossology-Redesign?node-id=1333-26267&t=bOhce5XVHOjbSZh6-0"> Schedule an Analysis pages on Figma </a>  |
+| Upload a New file     | Extra       | Completed |<a href = "https://www.figma.com/design/1tBj1VZsqQo9JewRYMm8tX/Fossology-Redesign?node-id=1333-26266&t=bOhce5XVHOjbSZh6-0">Upload a New file pages on Figma </a>  |
+| Upload (Delete/Edit/Move or Copy)     | Extra       | Completed |<a href = "https://www.figma.com/design/1tBj1VZsqQo9JewRYMm8tX/Fossology-Redesign?node-id=1333-28336&t=bOhce5XVHOjbSZh6-0">Upload pages on Figma </a>  |
+| License Compatibility Rules     | Extra       | Completed |<a href = "https://www.figma.com/design/1tBj1VZsqQo9JewRYMm8tX/Fossology-Redesign?node-id=1333-28337&t=bOhce5XVHOjbSZh6-0">License Compatibility Rules pages on Figma </a>  |
+| Duplicate Bucketpool     | Extra       | Completed |<a href = "https://www.figma.com/design/1tBj1VZsqQo9JewRYMm8tX/Fossology-Redesign?node-id=1240-25592&t=bOhce5XVHOjbSZh6-0">Duplicate Bucketpool page on Figma </a>  |
+| Fossdash Configuration     | Extra       | Completed |<a href = "https://www.figma.com/design/1tBj1VZsqQo9JewRYMm8tX/Fossology-Redesign?node-id=1240-25607&t=bOhce5XVHOjbSZh6-0">License Fossdash Configuration page on Figma </a>  |
+| Acknowledgements     | Extra       | Completed |<a href = "https://www.figma.com/design/1tBj1VZsqQo9JewRYMm8tX/Fossology-Redesign?node-id=1241-25863&t=bOhce5XVHOjbSZh6-0">Acknowledgements page on Figma </a>  |
+| Standard License Comments     | Extra       | Completed |<a href = "https://www.figma.com/design/1tBj1VZsqQo9JewRYMm8tX/Fossology-Redesign?node-id=1241-25897&t=bOhce5XVHOjbSZh6-0">Standard License Comments page on Figma </a>  |
+| Datatable Redesign     | Yes       | In Progress | Redesign covers multiple pages and considers diverse use cases for a scalable solution.  |
+| File View     | Yes       | In Queue | -  |
+| License Browse     | Extra       | In Queue | -  |
+
+<br>
+<h3>Usability testing</h3>
+
+| Task   | Planned | Status     | Comments    |
+| :---       |    :----:   |    :---:      |    :---      |
+| Engage users to validate the new designs and identify areas for improvement.     | Yes       | In Queue | To be conducted comprehensively once all page designs are finalized. Currently, initial feedback has been collected from key stakeholders. |
+
+
+<h1 align = "left" id = "future-goals">Future Goals</h1>
+
+
+<h1 align = "left" id = "key-takeaways">Key Takeaways</h1>
+
+
+<h1 align = "left" id = "acknowledgements">Acknowledgements</h1>
+
+
+<h1>Reach Out To Me </h1>
+
+- [Connect with me on LinkedIn](https://www.linkedin.com/in/devanshi-sachan-b26487235/)
+- [Give a follow on GitHub](https://github.com/devxnshi)
+- [Email](devs221102@gmail.com)
+
