@@ -25,7 +25,8 @@ The goal of this project was not just to modernize the look, but to make FOSSolo
 <br>
 
 <h1 align = "left" id = "contributions"> Contributions</h1>
-<br>
+
+
 <h2>1. Evaluating the Current Interface </h2>
 
 To begin the redesign, the first step was evaluating FOSSology’s current interface to identify key usability issues. This evaluation combined Cognitive Testing using the VIMM Model to assess user effort in completing tasks, Usability Analysis based on Jakob Nielsen’s Heuristic Principles to detect design and interaction flaws, and Accessibility Analysis following WCAG guidelines to ensure inclusivity in areas such as color contrast, navigation, and form usage. 
@@ -72,13 +73,15 @@ The design system was developed by standardizing typography, colors, spacing, an
 <h3>Icons</h3>
 Custom icons were designed from scratch to align with the style of the new components, adding to the overall coherence of the system. These icons were licensed under CC BY 4.0, meaning they can be freely used in personal or commercial projects with visible credit: “Icons by Devanshi.”
 
-
 <br>
+<br>
+<br>
+
 
 <h1 align = "left" id = "deliverables">Deliverables</h1>
 
 
-<h3>Establishment of a cohesive design system</h3>
+<h3>Establishment of a Cohesive Design System</h3>
 
 | Tasks   | Planned | Status     | Link / Comment    |
 | :---       |    :----:   |    :---:      |    :---      |
@@ -86,7 +89,7 @@ Custom icons were designed from scratch to align with the style of the new compo
 | Go through already designed pages and redesign (If necessary).     | Yes       | Completed | Reviewed existing pages, noted observations, and identified what to retain and what to redesign. |
 
 
-<h3>List of pages that needs a Focus</h3>
+<h3>List of Pages that Needs a Focus</h3>
 
 | Pages   | Planned | Status     | Link / Comment    |
 | :---       |    :----:   |    :---:      |    :---      |
@@ -109,30 +112,37 @@ Custom icons were designed from scratch to align with the style of the new compo
 | Standard License Comments     | Extra       | Completed |<a href = "https://www.figma.com/design/1tBj1VZsqQo9JewRYMm8tX/Fossology-Redesign?node-id=1241-25897&t=bOhce5XVHOjbSZh6-0">Standard License Comments page on Figma </a>  |
 | Datatable Redesign     | Yes       | In Progress | Redesign covers multiple pages and considers diverse use cases for a scalable solution.  |
 | File View     | Yes       | In Queue | -  |
-| License Browse     | Extra       | In Queue | -  |
+| License Browser     | Extra       | In Queue | -  |
 
-
-<h3>Usability testing</h3>
-
-| Task   | Planned | Status     | Comments    |
-| :---       |    :----:   |    :---:      |    :---      |
-| Engage users to validate the new designs and identify areas for improvement.     | Yes       | In Queue | To be conducted comprehensively once all page designs are finalized. Currently, initial feedback has been collected from key stakeholders. |
 
 <br>
 
 <h1 align = "left" id = "future-goals">Future Goals</h1>
 
+1. Finalize the designs for the File View and File Browser pages by first recreating them with the new components, then refining them as per design requirements.
+2. Progress with designing additional miscellaneous pages to ensure complete coverage of the FOSSology tool.
+3. Conduct structured usability testing with a wider user base to validate designs and get feedback.
+4. Continue documenting design decisions and evolving usage guidelines to better support future contributors.
+5. Continue collaboration with developers to streamline handoff and maintain design–development consistency.
+
 <br>
 
 <h1 align = "left" id = "key-takeaways">Key Takeaways</h1>
 
+- Understood the importance of a scalable design system with reusable components and consistent styling.
+- Gained experience in designing lightweight, developer-friendly components that ease implementation and maintenance.
+- Learnt how ongoing stakeholder feedback during design clarified dependencies and guided feature decisions effectively.
+- Understood the balance between modernization and retaining familiarity to reduce disruption for existing users.
+- Appreciated the role of open-source contribution and community-driven improvements.
+- Learnt how to manage time, adaptability, and prioritization while handling multiple redesign tasks across complex workflows.
+  
 <br>
 
 <h1 align = "left" id = "acknowledgements">Acknowledgements</h1>
 
 <br>
 
-<h1>Reach Out To Me </h1>
+<h1>Reach Out to Me </h1>
 
 - [Connect with me on LinkedIn](https://www.linkedin.com/in/devanshi-sachan-b26487235/)
 - [Give a follow on GitHub](https://github.com/devxnshi)
