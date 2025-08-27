@@ -145,9 +145,9 @@ Custom icons were designed from scratch to align with the style of the new compo
 
 I would like to sincerely thank my mentors [Katharina Ettinger](https://www.linkedin.com/in/katharina-ettinger-82055019/), [Shaheem Azmal M MD.](https://www.linkedin.com/in/shaheem-azmal-m-md-71604429/), [Gaurav Mishra](https://www.linkedin.com/in/gmishx/), and [Kaushlendra Pratap](https://www.linkedin.com/in/kaushl2208/) for their constant support, guidance, feedback, and encouragement throughout this project. They were always patient in clarifying my doubts, guiding me through complex features and dependencies, and going the extra mile to ensure I fully understood the intricacies of the system.
 
-I am also really grateful to the FOSSology community and the Google Summer of Code program for providing this incredible opportunity to contribute and grow. The collaborative spirit, constructive feedback, and encouragement from everyone involved made this journey not only a valuable learning experience but also a truly enjoyable one.
+I would also like to thank [Amit Nair](https://www.linkedin.com/in/amit-nair/) and [Aditya Khosla](https://www.linkedin.com/in/adityakhosla3/) for their valuable inputs and feedback whenever I encountered blockers or uncertainties in design, which helped me move forward with greater clarity.
 
-I look forward to continuing as an active part of the FOSSology community and contributing further to the broader open-source ecosystem. This experience has inspired me to keep learning, sharing, and building together.
+I am also really grateful to the FOSSology community and the Google Summer of Code program for providing this incredible opportunity to contribute and grow. The collaborative spirit, constructive feedback, and encouragement from everyone involved made this journey not only a valuable learning experience but also a truly enjoyable one. I look forward to continuing as an active part of the FOSSology community and contributing further to the broader open-source ecosystem. This experience has inspired me to keep learning, sharing, and building together.
 
 <br>
 
