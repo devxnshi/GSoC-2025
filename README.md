@@ -1,5 +1,6 @@
-
-<a href = "https://summerofcode.withgoogle.com/programs/2025/projects/gX6omKmk">  ![Summer-of-code](files/GSoC_header.png)</a>
+<p align="center">
+  <img src="files/Intro bg.png" alt="Intro" width="1000"/>
+</p>
 
 <div align = "center"><h1>FOSSology UX and UI Redesign </h1>
 <h2> <a href = "https://summerofcode.withgoogle.com/programs/2025/projects/gX6omKmk"> GSoC-2025 </a> @ <a href = "https://www.fossology.org/">FOSSology </a> </h2></div>
