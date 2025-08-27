@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="files/Intro bg.png" alt="Intro" width="1000"/>
+  <img src="files/Intro_bg.png" alt="Intro" width="1000"/>
 </p>
 
 <div align = "center"><h1>FOSSology UX and UI Redesign </h1>
