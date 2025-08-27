@@ -63,6 +63,15 @@ The project focused on identifying key users, their primary tasks, and the pain 
 
 The design process began with translating the defined requirements into low-fidelity wireframes or by recreating the current UI with updated components to explore possible solutions. These were then refined into high-fidelity screens for feedback and review, followed by clickable prototypes that showcased improved workflows and interface elements in practice. 
 
+<h3> How the Redesigned Screens Improve the Current UI and UX</h3>
+
+- The redesigned screens feature a modern visual style with consistent typography, spacing, colors, and custom icons, creating a cleaner and more cohesive interface.
+- Navigation is simplified with clearer hierarchy and structure, making it easier for users to find features and complete tasks efficiently.
+- Data-heavy pages such as tables and lists are optimized with better organization, filtering, and search options for quicker interpretation.
+- Redesigned components are lightweight in terms of CSS, reducing complexity and load time without compromising functionality.
+- A new custom icon set was created to match the design system, improving clarity while giving the tool a distinct visual identity.
+- Consistent use of design patterns and reusable components across pages reduces confusion and learning effort.
+- Accessibility is improved through better contrast, more legible typography, and scalable layouts.
 
 <br>
 <h2>4. Established a Design System </h2>
