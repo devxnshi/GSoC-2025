@@ -13,6 +13,7 @@
   <a href="#key-takeaways">Key Takeaways</a> | 
 	<a href="#acknowledgements">Acknowledgements</a>
 </p>
+
 <br>
 
 <h1 align = "left" id = "project-details">Project Details</h1>
@@ -63,12 +64,14 @@ An accessibility review was conducted using WCAG standards to ensure the interfa
 Addressing these gaps ensured the redesign would support broader adoption and better accessibility
 
 <br>
+
 <h2>2. User Research and Redesign Requirements </h2>
 
 The project focused on identifying key users, their primary tasks, and the pain points they faced with the existing interface. These insights were then categorized by impact (high, medium, low) and converted into structured redesign requirements and design recommendations, ensuring that the most critical issues were resolved first while leaving room for iterative improvements.
 
 
 <br>
+
 <h2>3. Creating Workflows and High-Fidelity Screens </h2>
 
 The design process began with translating the defined requirements into low-fidelity wireframes or by recreating the current UI with updated components to explore possible solutions. These were then refined into high-fidelity screens for feedback and review, followed by clickable prototypes that showcased improved workflows and interface elements in practice. 
@@ -88,6 +91,7 @@ The design process began with translating the defined requirements into low-fide
 - Accessibility is improved through better contrast, more legible typography, and scalable layouts.
 
 <br>
+
 <h2>4. Established a Design System </h2>
 
 The design system was developed by standardizing typography, colors, spacing, and iconography to establish a cohesive visual identity across the platform. Reusable UI components were created to maintain consistency and reduce development effort, while also ensuring that the interface remained lightweight and easy to implement. This approach not only improved the overall user experience but also provided scalability, making future enhancements more efficient and enabling contributors to extend the system with clarity and consistency.
@@ -108,15 +112,12 @@ Custom icons were designed from scratch to align with the style of the new compo
 <br>
 
 <h1 align = "left" id = "deliverables">Deliverables</h1>
-
-
 <h3>Establishment of a Cohesive Design System</h3>
 
 | Tasks   | Planned | Status     | Link / Comment    |
 | :---       |    :----:   |    :---:      |    :---      |
 | Standardize elements such as colors, typography, and spacing for a unified aesthetic.     | Yes       | Completed | <a href = "https://www.figma.com/design/1tBj1VZsqQo9JewRYMm8tX/Fossology-Redesign?node-id=1333-28338&t=bOhce5XVHOjbSZh6-0">Design System on Figma </a>  |
 | Go through already designed pages and redesign (If necessary).     | Yes       | Completed | Reviewed existing pages, noted observations, and identified what to retain and what to redesign. |
-
 
 <h3>List of Pages that Needs a Focus</h3>
 
@@ -182,4 +183,3 @@ I am also really grateful to the FOSSology community and the Google Summer of Co
 - [Connect with me on LinkedIn](https://www.linkedin.com/in/devanshi-sachan-b26487235/)
 - [Give a follow on GitHub](https://github.com/devxnshi)
 - [Email](devs221102@gmail.com)
-
