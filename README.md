@@ -95,10 +95,6 @@ The design system was developed by standardizing typography, colors, spacing, an
 <h3>Icons</h3>
 Custom icons were designed from scratch to align with the style of the new components, adding to the overall coherence of the system. These icons were licensed under CC BY 4.0, meaning they can be freely used in personal or commercial projects with visible credit: “Icons by Devanshi.”
 
-<p align="center">
-  <img src="files/Icons.png" alt="Icons" width="1000"/>
-</p>
-
 <h4> Pull Request </h4>
 <ul>
 <li> <a href = "https://github.com/fossology/FOSSologyUI/pull/316"> Icons set 1 </a> </li>
