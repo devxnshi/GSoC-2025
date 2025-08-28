@@ -73,6 +73,10 @@ The project focused on identifying key users, their primary tasks, and the pain 
 
 The design process began with translating the defined requirements into low-fidelity wireframes or by recreating the current UI with updated components to explore possible solutions. These were then refined into high-fidelity screens for feedback and review, followed by clickable prototypes that showcased improved workflows and interface elements in practice. 
 
+<p align="center">
+  <img src="files/New_screens.gif" alt="New screens" width="1000"/>
+</p>
+
 <h3> How the Redesigned Screens Improve the Current UI and UX</h3>
 
 - The redesigned screens feature a modern visual style with consistent typography, spacing, colors, and custom icons, creating a cleaner and more cohesive interface.
