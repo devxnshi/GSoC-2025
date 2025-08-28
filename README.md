@@ -13,7 +13,7 @@
   <a href="#key-takeaways">Key Takeaways</a> | 
 	<a href="#acknowledgements">Acknowledgements</a>
 </p>
-
+<br>
 
 <h1 align = "left" id = "project-details">Project Details</h1>
 
@@ -39,14 +39,6 @@ Cognitive testing was carried out using the VIMM Model to understand the mental 
 
 <p align="center">
   <img src="files/VIMM_analysis.gif" alt="VIMM" width="900"/>
-</p>
-
-
-<p align="center">
-  <img src="files/visual_load.png" alt="Intro" width="900"/>
-  <img src="files/intellectual_load.png" alt="Intro" width="900"/>
-  <img src="files/motor_load.png" alt="Intro" width="900"/>
-  <img src="files/memory_load.png" alt="Intro" width="900"/>
 </p>
 
 This helped prioritize redesign areas that directly reduced user friction and cognitive load. 
