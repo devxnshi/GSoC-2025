@@ -153,7 +153,7 @@ Custom icons were designed from scratch to align with the style of the new compo
 2. Progress with designing additional miscellaneous pages to ensure complete coverage of the FOSSology tool.
 3. Conduct structured usability testing with a wider user base to validate designs and get feedback.
 4. Continue documenting design decisions and evolving usage guidelines to better support future contributors.
-5. Continue collaboration with developers to streamline handoff and maintain design–development consistency.
+5. Continue collaboration with developers to streamline handoff and maintain design-development consistency.
 
 <br>
 
