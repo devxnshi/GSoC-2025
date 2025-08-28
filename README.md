@@ -38,6 +38,11 @@ To begin the redesign, the first step was evaluating FOSSology’s current inter
 Cognitive testing was carried out using the VIMM Model to understand the mental effort required for users to perform common tasks in FOSSology. This approach looked at Visual, Intellectual, Memory, and Motor aspects of interaction, allowing us to see where users were struggling with unnecessary complexity or confusion. 
 
 <p align="center">
+  <img src="files/VIMM_analysis.gif" alt="VIMM" width="900"/>
+</p>
+
+
+<p align="center">
   <img src="files/visual_load.png" alt="Intro" width="900"/>
   <img src="files/intellectual_load.png" alt="Intro" width="900"/>
   <img src="files/motor_load.png" alt="Intro" width="900"/>
