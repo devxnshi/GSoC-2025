@@ -88,9 +88,16 @@ The design process began with translating the defined requirements into low-fide
 
 The design system was developed by standardizing typography, colors, spacing, and iconography to establish a cohesive visual identity across the platform. Reusable UI components were created to maintain consistency and reduce development effort, while also ensuring that the interface remained lightweight and easy to implement. This approach not only improved the overall user experience but also provided scalability, making future enhancements more efficient and enabling contributors to extend the system with clarity and consistency.
 
+<p align="center">
+  <img src="files/Design_system.gif" alt="Design system" width="1000"/>
+</p>
 
 <h3>Icons</h3>
 Custom icons were designed from scratch to align with the style of the new components, adding to the overall coherence of the system. These icons were licensed under CC BY 4.0, meaning they can be freely used in personal or commercial projects with visible credit: “Icons by Devanshi.”
+
+<p align="center">
+  <img src="files/Icons.png" alt="Icons" width="1000"/>
+</p>
 
 <h4> Pull Request </h4>
 <ul>
