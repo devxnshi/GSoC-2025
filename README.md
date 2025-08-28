@@ -38,7 +38,7 @@ To begin the redesign, the first step was evaluating FOSSology’s current inter
 Cognitive testing was carried out using the VIMM Model to understand the mental effort required for users to perform common tasks in FOSSology. This approach looked at Visual, Intellectual, Memory, and Motor aspects of interaction, allowing us to see where users were struggling with unnecessary complexity or confusion. 
 
 <p align="center">
-  <img src="files/VIMM_analysis.gif" alt="VIMM" width="900"/>
+  <img src="files/VIMM_analysis.gif" alt="VIMM" width="1000"/>
 </p>
 
 This helped prioritize redesign areas that directly reduced user friction and cognitive load. 
@@ -47,6 +47,11 @@ This helped prioritize redesign areas that directly reduced user friction and co
 <h3>Usability Analysis - Jakob Nielsen’s Heuristic Principles</h3>
 
 The interface was also evaluated against Jakob Nielsen’s 10 usability heuristics to uncover design flaws and inconsistencies. Each heuristic such as visibility of system status, error prevention, consistency, and user control was systematically reviewed against existing workflows.
+
+<p align="center">
+  <img src="files/home_page.gif" alt="Home page" width="1000"/>
+  <img src="files/show_jobs_page.gif" alt="Show jobs page" width="1000"/>
+</p>
 
 Heuristic evaluation provided a comprehensive picture of where the interface broke common usability standards, giving a clear foundation for improvement.
 
@@ -119,9 +124,9 @@ Custom icons were designed from scratch to align with the style of the new compo
 | Group (Create/Edit/Manage)     | Yes       | Completed |<a href = "https://www.figma.com/design/1tBj1VZsqQo9JewRYMm8tX/Fossology-Redesign?node-id=1333-27583&t=bOhce5XVHOjbSZh6-0">Group pages on Figma </a>  |
 | Obligations (Create/Edit/Manage)     | Yes       | Completed |<a href = "https://www.figma.com/design/1tBj1VZsqQo9JewRYMm8tX/Fossology-Redesign?node-id=1333-27584&t=bOhce5XVHOjbSZh6-0">Obligations pages on Figma </a>  |
 | License (Create/Edit/Manage)     | Yes       | Completed | <a href = "https://www.figma.com/design/1tBj1VZsqQo9JewRYMm8tX/Fossology-Redesign?node-id=1333-27586&t=bOhce5XVHOjbSZh6-0">License pages on Figma </a>  |
-| Schedule an Analysis page     | Extra       | Completed | <a href = "https://www.figma.com/design/1tBj1VZsqQo9JewRYMm8tX/Fossology-Redesign?node-id=1333-26267&t=bOhce5XVHOjbSZh6-0"> Schedule an Analysis pages on Figma </a>  |
-| Upload a New file     | Extra       | Completed |<a href = "https://www.figma.com/design/1tBj1VZsqQo9JewRYMm8tX/Fossology-Redesign?node-id=1333-26266&t=bOhce5XVHOjbSZh6-0">Upload a New file pages on Figma </a>  |
-| Upload (Delete/Edit/Move or Copy)     | Extra       | Completed |<a href = "https://www.figma.com/design/1tBj1VZsqQo9JewRYMm8tX/Fossology-Redesign?node-id=1333-28336&t=bOhce5XVHOjbSZh6-0">Upload pages on Figma </a>  |
+| Schedule an Analysis page     | Yes       | Completed | <a href = "https://www.figma.com/design/1tBj1VZsqQo9JewRYMm8tX/Fossology-Redesign?node-id=1333-26267&t=bOhce5XVHOjbSZh6-0"> Schedule an Analysis pages on Figma </a>  |
+| Upload a New file     | Yes       | Completed |<a href = "https://www.figma.com/design/1tBj1VZsqQo9JewRYMm8tX/Fossology-Redesign?node-id=1333-26266&t=bOhce5XVHOjbSZh6-0">Upload a New file pages on Figma </a>  |
+| Upload (Delete/Edit/Move or Copy)     | Yes       | Completed |<a href = "https://www.figma.com/design/1tBj1VZsqQo9JewRYMm8tX/Fossology-Redesign?node-id=1333-28336&t=bOhce5XVHOjbSZh6-0">Upload pages on Figma </a>  |
 | License Compatibility Rules     | Extra       | Completed |<a href = "https://www.figma.com/design/1tBj1VZsqQo9JewRYMm8tX/Fossology-Redesign?node-id=1333-28337&t=bOhce5XVHOjbSZh6-0">License Compatibility Rules pages on Figma </a>  |
 | Duplicate Bucketpool     | Extra       | Completed |<a href = "https://www.figma.com/design/1tBj1VZsqQo9JewRYMm8tX/Fossology-Redesign?node-id=1240-25592&t=bOhce5XVHOjbSZh6-0">Duplicate Bucketpool page on Figma </a>  |
 | Fossdash Configuration     | Extra       | Completed |<a href = "https://www.figma.com/design/1tBj1VZsqQo9JewRYMm8tX/Fossology-Redesign?node-id=1240-25607&t=bOhce5XVHOjbSZh6-0">License Fossdash Configuration page on Figma </a>  |
